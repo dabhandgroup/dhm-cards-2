@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.7.3//EN
+N:Jones;Greg;;;
+FN:Victory Tennis
+ORG:Victory Tennis;
+EMAIL;type=INTERNET;type=WORK;type=pref:info@victorytennis.com.au
+TEL;type=CELL;type=VOICE;type=pref:+61 431 288 352
+item1.URL;type=pref:https://victorytennis.com.au
+item1.X-ABLabel:_$!<HomePage>!$_
+IMPP;X-SERVICE-TYPE=Facebook;type=WORK;type=pref:xmpp:victorytennisbentleigh
+X-ABShowAs:COMPANY
+END:VCARD
